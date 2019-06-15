@@ -103,6 +103,4 @@ def choice():
 
 choice()
 
-# use salutation after entering all values use Mr. or MR. name of the spy
-# Create  Add friend and set status function
 
